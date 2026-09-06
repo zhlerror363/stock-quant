@@ -1,0 +1,13 @@
+node_modules/
+dist/
+data/*.db
+data/*.db-*
+data/backups/
+data/.llm-secret
+data/test-tmp/
+data/npm-cache/
+.env
+*.log
+*.tsbuildinfo
+.playwright/
+gushen-v42-migration-check/

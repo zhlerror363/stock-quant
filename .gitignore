@@ -1,0 +1,16 @@
+# 敏感/专有：绝不公开
+.env
+data/
+*.db
+*.db-*
+*.log
+logs/
+node_modules/
+dist/
+.git/
+
+# 核心策略/AI 逻辑源码：不公开（作品集只公开框架 README + 构建配置）
+server/
+src/
+scripts/
+tests/
